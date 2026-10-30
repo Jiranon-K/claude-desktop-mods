@@ -1,0 +1,16 @@
+{
+  "name": "claude-desktop-mods",
+  "owner": { "name": "Jiranon-K" },
+  "plugins": [
+    {
+      "name": "folder-band",
+      "source": "./folder-band",
+      "description": "Status band above the prompt: model, effort, folder path, git branch, duration, context and rate limits"
+    },
+    {
+      "name": "projects-pane",
+      "source": "./projects-pane",
+      "description": "Projects dashboard pane: current folder, git projects grouped by folder, new session or new worktree in one click"
+    }
+  ]
+}

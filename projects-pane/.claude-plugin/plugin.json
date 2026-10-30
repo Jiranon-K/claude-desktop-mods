@@ -1,0 +1,6 @@
+{
+  "name": "projects-pane",
+  "version": "0.1.0",
+  "description": "Projects dashboard pane: the current folder and every git project under ~/Projects with branch, changes and last commit",
+  "types": "./types/index.d.ts"
+}

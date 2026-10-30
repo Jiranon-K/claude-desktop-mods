@@ -1,0 +1,6 @@
+{
+  "name": "folder-band",
+  "version": "0.1.0",
+  "description": "Status band above the prompt: model, effort, folder path, git branch, duration, context and rate limits",
+  "types": "./types/index.d.ts"
+}
